@@ -8,6 +8,8 @@ export function Home(props) {
 		<Fragment>
 			<Navbar />
 			<Jumbotron />
+            <Cards />
+            <Footer />
 		</Fragment>
 	);
 }
